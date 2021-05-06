@@ -2,7 +2,7 @@ import { IConfig } from './src/types'
 
 const c: IConfig = {
   // [必填], 请填写您的仓库地址
-  gitRepoUrl: 'https://github.com/xjh22222228/nav',
+  gitRepoUrl: 'https://github.com/linjhon/nav',
 
   // 部署分支
   branch: 'main',
@@ -14,13 +14,13 @@ const c: IConfig = {
   showGithub: true,
 
   // 您的网站地址，有利于SEO
-  homeUrl: 'https://nav3.cn',
+  homeUrl: 'https://linjhon.com',
 
   // 网站标题
-  title: '发现导航 - 精选实用导航网站',
+  title: '叶落秋明 - 我的书签',
 
   // 网站描述
-  description: '发现导航 - 精选实用导航网站',
+  description: '叶落秋明 - 我的书签',
 
   // 网站关键字
   keywords: '导航,前端资源,社区站点,设计师,实用工具,学习资源,运营,网络安全,node.js',
@@ -31,7 +31,7 @@ const c: IConfig = {
   // 网站底部内容, 版权信息、备案号, 可以是 HTML
   footerContent: `
     <div style="font-weight: bold;">共收录\${total}个网站</div>
-    <div>Copyright © 2018-2021 nav3.cn, All Rights Reserved</div>
+    <div>Copyright © 2021 linjho.com, All Rights Reserved</div>
   `,
 
   // 阿里巴巴矢量图库 https://www.iconfont.cn/
@@ -40,7 +40,7 @@ const c: IConfig = {
 
   // 百度统计地址
   // https://tongji.baidu.com/web/welcome/login
-  baiduStatisticsUrl: 'https://hm.baidu.com/hm.js?4582be7af7e7c95ef75351e07c6c32ba',
+  //   baiduStatisticsUrl: 'https://hm.baidu.com/hm.js?4582be7af7e7c95ef75351e07c6c32ba',
 
   // CNZZ 统计地址
   // https://www.cnzz.com/o_index.php
